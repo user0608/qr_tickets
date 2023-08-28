@@ -1,6 +1,6 @@
 import 'package:shared_preferences/shared_preferences.dart';
 
-const _defaultApiHost = '52.204.150.234:8090';
+const _defaultApiHost = '192.16.0.10:8080';
 const _defaultIsHttps = false;
 
 class StorageApplication {

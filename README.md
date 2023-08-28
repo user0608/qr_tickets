@@ -1,16 +1,5 @@
 # qr_tickets
 
-A new Flutter project.
+Es un proyecto desarrollado para generar documentos PDF A4 con tarjetas a las cuales se les agrega un identificar QR único permitiendo utilizar estas tarjetas como vales de consumo, entradas a eventos, identificadores, etc..
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Backend: https://github.com/user0608/goqrs
